@@ -4,7 +4,7 @@
     "title": "Best! I got the house I wanted through Hounter",
     "description": "Through this website, I can get a house with the type and specifications I want very easily, without a complicated process to find information on the house we want.",
     "rating": 4.6,
-    "profileImage": "profile1",
+    "profileImage": "/src/images/Testimonials/profile/Avatar01.svg",
     "name": "Jenny Wilson",
     "role": "Manager Director"
   },
@@ -13,7 +13,7 @@
     "title": "A great experience with Hounter!",
     "description": "I was able to find my dream home with ease. The platform is user-friendly and has all the details you need.",
     "rating": 4.8,
-    "profileImage": "profile2",
+    "profileImage": "/src/images/Testimonials/profile/Avatar03.svg",
     "name": "Ronald Richards",
     "role": "Head of Marketing"
   },
@@ -22,7 +22,7 @@
     "title": "Smooth & Fast House Hunting!",
     "description": "I highly recommend Hounter for anyone looking for a new house. The experience was seamless, and I got all the necessary information instantly.",
     "rating": 4.7,
-    "profileImage": "profile3",
+    "profileImage": "/src/images/Testimonials/profile/Avatar04.svg",
     "name": "Cody Fisher",
     "role": "Real Estate Consultant"
   }
