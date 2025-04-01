@@ -1,6 +1,6 @@
 [
   {
-    "houseImg": "../images/House/house-1.jpeg",
+    "houseImg": "/src/images/House/house-1.jpeg",
     "tag": "Popular",
     "name": "Roselands House",
     "price": 35000000,
