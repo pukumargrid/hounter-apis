@@ -5,8 +5,8 @@
     "title": "The things we need to check when we want to buy a house",
     "readTime": "4 min read",
     "date": "25 Apr 2021",
-    "authorImages": ["avatar1"],
-    "postImage": "post1",
+    "authorImages": ["/src/images/Findmore/profile/avatar-1.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img1.svg",
     "description": "Want to buy a house but are unsure about what we should know, here I will try to explain what we should know and check when we want to buy a house"
   },
   {
@@ -15,8 +15,8 @@
     "title": "7 Ways to distinguish the quality of the house we want to buy",
     "readTime": "6 min read",
     "date": "24 Apr 2021",
-    "authorImages": ["avatar2"],
-    "postImage": "post2",
+    "authorImages": ["/src/images/Findmore/profile/avatar-2.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img2.svg",
     "description": "Buying a home can be overwhelming, but knowing what to check makes it easier. Here, I'll guide you through the key factors to consider before making a purchase."
   },
   {
@@ -25,8 +25,8 @@
     "title": "The best way to know the quality of the house we want to buy",
     "readTime": "2 min read",
     "date": "24 Apr 2021",
-    "authorImages": ["avatar3"],
-    "postImage": "post3",
+    "authorImages": ["/src/images/Findmore/profile/avatar-3.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img3.svg",
     "description": "Want to buy a house but are unsure about what we should know, here I will try to explain what we should know and check when we want to buy a house"
   },
   {
@@ -35,8 +35,8 @@
     "title": "Important factors to consider when buying a home",
     "readTime": "5 min read",
     "date": "23 Apr 2021",
-    "authorImages": ["avatar1"],
-    "postImage": "post1",
+    "authorImages": ["/src/images/Findmore/profile/avatar-1.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img1.svg",
     "description": "Here are the crucial things you need to consider when buying a home to ensure you make an informed decision."
   },
   {
@@ -45,8 +45,8 @@
     "title": "Understanding the hidden costs of home buying",
     "readTime": "6 min read",
     "date": "22 Apr 2021",
-    "authorImages": ["avatar2"],
-    "postImage": "post2",
+    "authorImages": ["/src/images/Findmore/profile/avatar-2.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img2.svg",
     "description": "Buying a house involves more than just the price tag. Let's explore the hidden costs you should be aware of before making your decision."
   },
   {
@@ -55,8 +55,8 @@
     "title": "How to inspect a home before buying",
     "readTime": "4 min read",
     "date": "21 Apr 2021",
-    "authorImages": ["avatar3"],
-    "postImage": "post3",
+    "authorImages": ["/src/images/Findmore/profile/avatar-3.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img3.svg",
     "description": "Inspecting a house thoroughly before buying can save you from future issues. This guide will walk you through what to look for during the inspection."
   },
   {
@@ -65,8 +65,8 @@
     "title": "What are the best neighborhoods to buy a house in?",
     "readTime": "5 min read",
     "date": "20 Apr 2021",
-    "authorImages": ["avatar1"],
-    "postImage": "post1",
+    "authorImages": ["/src/images/Findmore/profile/avatar-1.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img1.svg",
     "description": "Choosing the right neighborhood is just as important as the house itself. Here's how to identify the best neighborhoods for your home purchase."
   },
   {
@@ -75,8 +75,8 @@
     "title": "How to negotiate the best price for your new home",
     "readTime": "7 min read",
     "date": "19 Apr 2021",
-    "authorImages": ["avatar2"],
-    "postImage": "post2",
+    "authorImages": ["/src/images/Findmore/profile/avatar-2.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img2.svg",
     "description": "Negotiating the price of a home can be tricky. These strategies will help you secure a better deal on your next home purchase."
   },
   {
@@ -85,8 +85,8 @@
     "title": "The importance of home appraisals during the buying process",
     "readTime": "3 min read",
     "date": "18 Apr 2021",
-    "authorImages": ["avatar3"],
-    "postImage": "post3",
+    "authorImages": ["/src/images/Findmore/profile/avatar-3.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img3.svg",
     "description": "A home appraisal is a crucial part of the home buying process. Here's why it's essential and how it can impact your decision."
   },
   {
@@ -95,8 +95,8 @@
     "title": "How to prepare financially for buying a home",
     "readTime": "6 min read",
     "date": "17 Apr 2021",
-    "authorImages": ["avatar1"],
-    "postImage": "post1",
+    "authorImages": ["/src/images/Findmore/profile/avatar-1.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img1.svg",
     "description": "Before buying a house, it's vital to get your finances in order. Learn the best ways to prepare for a home purchase financially."
   },
   {
@@ -105,8 +105,8 @@
     "title": "Common mistakes to avoid when buying a home",
     "readTime": "5 min read",
     "date": "16 Apr 2021",
-    "authorImages": ["avatar2"],
-    "postImage": "post2",
+    "authorImages": ["/src/images/Findmore/profile/avatar-2.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img2.svg",
     "description": "It's easy to make mistakes when buying a home. This article highlights the most common mistakes and how to avoid them."
   },
   {
@@ -115,8 +115,8 @@
     "title": "How to choose the right home loan for you",
     "readTime": "6 min read",
     "date": "15 Apr 2021",
-    "authorImages": ["avatar3"],
-    "postImage": "post3",
+    "authorImages": ["/src/images/Findmore/profile/avatar-3.jpeg"],
+    "postImage": "/src/images/Findmore/house/Img3.svg",
     "description": "Choosing the right home loan is crucial for your financial future. In this article, I'll guide you through the different options available."
   }
 ]
